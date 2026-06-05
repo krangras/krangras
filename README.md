@@ -35,10 +35,3 @@
 ## 🛠️ стек
 
 `Python` · `SQL` · `Git` · `Django` · `Pandas` · `NumPy` · `Matplotlib` · `Aiogram`
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krangras&show_icons=true&theme=default&hide_title=true&hide_rank=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krangras&layout=compact&hide_title=true" height="150" />
-</p>
