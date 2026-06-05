@@ -1,4 +1,4 @@
-<h1 align="center">👋 Я Николай Кочкин</h1>
+<h1 align="center">👋 Привет! Я Николай Кочкин</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Екатеринбург-2C5F2D?style=flat-square&logo=googlemaps&logoColor=white" />
