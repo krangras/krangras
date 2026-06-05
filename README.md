@@ -1,9 +1,9 @@
-<h1 align="center">👋 Николай Кочкин</h1>
+<h1 align="center">👋 Я Николай Кочкин</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Екатеринбург-2C5F2D?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/breezecolor=blue&label=Аналитика%20%2F%20Data&style=flat-square" />
-  <img src="https://img.shields.io/badge/УрФУ-003B5C?style=flat-square&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/Аналитика%20%2F%20AI-2C5F2D?style=flat-square" />
+  <img src="https://img.shields.io/badge/УрФУ-003B5C?style=flat-square" />
 </p>
 
 ---
@@ -22,11 +22,19 @@
 
 ---
 
-<h3 align="center">📌 pinned</h3>
+## 🔍 что сделано
 
-<p align="center">
-  <i>скоро появятся проекты</i>
-</p>
+| Проект | Что сделал |
+|--------|------------|
+| **WaveScan** | AI-анализатор логов кибербезопасности. Интегрировал AI Tunnel, находил по 2–3 бага за тест, работал с бэкендером над метриками |
+| **Сайт для подготовки к экзаменам** | За 3 дня навайбкодил, запустил, получил **100 уникальных пользователей** |
+| **Telegram-боты** | Писал простых ботов с кнопками на aiogram |
+
+---
+
+## 🛠️ стек
+
+`Python` · `SQL` · `Git` · `Django` · `Pandas` · `NumPy` · `Matplotlib` · `Aiogram`
 
 ---
 
