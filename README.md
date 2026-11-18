@@ -18,5 +18,4 @@
 ## Инструменты
 
 - **Сервисы и данные** · Python, SQL, FastAPI, Django, PostgreSQL
-- **Анализ данных** · pandas, NumPy, Matplotlib
 - **Telegram и поставка** · Aiogram, Git, Docker, GitHub Actions
